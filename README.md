@@ -1,5 +1,5 @@
-# NESCLiC Website
-Future home for the NESCLiC Consortium website
+# Carpentries at Tufts Website
+New home for advertising workshops and promoting our services.
 
 ## Directory Layout
 docs/ 
