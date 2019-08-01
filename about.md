@@ -16,6 +16,6 @@ redirect_from: /home/about/
 **Library Carpentry** workshops are designed to help library professionals. Lessons include SQL, web scraping, data cleaning and tidying. It is not formally associated with the Carpetries. 
 
 ## The New England Software Carpentry Library Consortium
-<img src="/images/NESCLiC-Logo-5-hero.png" alt="NESCLiC Logo" width="200"/>
+<img src="/images/NESCLiC-Logo-5-hero.png" alt="NESCLiC Logo" width="400"/>
 
 The New England Software Carpentry Library Consortium ([NESCLiC](https://nesclic.github.io/)) is an association of academic libraries, joined as a community of practice focused on building data science skills in research computing, and extracting, wrangling, storing, analyzing, and visualizing data. As a member of NESCLiC, Tufts University shares a Gold-level membership in the Carpentries with the other member schools. Tufts has been a member of NESCLiC since it's creation in 2017. 
