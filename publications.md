@@ -4,7 +4,7 @@ title: Publications & Presentations
 permalink: /publications/
 redirect_from: /home/publications/
 ---
-Check back for publications, blog posts, and presentations by NESCLiC members. 
+Check back for publications, blog posts, and presentations by Carpentries at Tufts members. 
 
 Type | Date | Citation | Link 
 ---|---|---|---
