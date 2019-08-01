@@ -1,9 +1,9 @@
 # Site settings
-title: NESCLiC
-github_username: NESCLiC
+title: Carpentries at Tufts
+github_username: tufts-carpentries
 description: >
- New England Software Carpentry Library Consortium
-url: "https://nesclic.github.io/"
+ Carpentries at Tufts
+url: "https://tuftscarp.github.io/"
 
 # Build settings
 markdown: kramdown
