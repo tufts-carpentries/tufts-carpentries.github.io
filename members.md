@@ -9,8 +9,8 @@ redirect_from:
 #### Tufts University Certified Instructors and Instructors-in-Training.
 
 Name|Pronouns|Bio
-
-Kristin Lee<img style="width:100px;float:left;margin:10px" src="/images/KL_Tufts.jpg" alt="Kristin Lee photo" width=100>|she/her|Research Data Librarian at the Tisch Library, Tufts University. She works with researchers in the School of Arts and Sciences and the School of Engineering to help them find efficient ways to make their research data reusable and accessible. Kristin is a data nerd to the core and is currently working on a side project to map the early circus and understand its impact on the culture of the United States
+---|---|---
+Kristin Lee <img src="/images/KL_Tufts.jpg" alt="Kristin Lee photo" width=100>|she/her|Research Data Librarian at the Tisch Library, Tufts University. She works with researchers in the School of Arts and Sciences and the School of Engineering to help them find efficient ways to make their research data reusable and accessible. Kristin is a data nerd to the core and is currently working on a side project to map the early circus and understand its impact on the culture of the United States
 
 <table>
   <tr>
