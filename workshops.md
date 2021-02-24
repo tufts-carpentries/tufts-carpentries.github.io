@@ -9,6 +9,7 @@ Check back for future workshops offered by Carpentries at Tufts members.
 
 Venue | Dates | Lessons
 ---|---|---
+[Tufts University, Online](https://tufts-carpentries.github.io/2021-03-09-tuftsHirsh/) | March 9-10, 2021 | Data Organization in Spreadsheets, OpenRefine for Data Cleaning, R for Social Scientists
 [Tufts University, Medford Campus](https://tufts-carpentries.github.io/2019-11-15-tufts/) | November 15 & 22, 2019 | Unix, Git, Plotting and Programming with Python
 [Tufts University, Boston Campus](https://tufts-carpentries.github.io/2019-10-21-tuftsHirsh/) | October 21-22, 2019 | Data Organization in Spreadsheets, OpenRefine for Data Cleaning, R for Social Scientists
 [Woods Hole Oceanographic Institution](https://nesclic.github.io/2019-10-03-whoi/) (Hosts), Tufts (Instructor)| October 3-4, 2019 | Unix, Git, Plotting and Programming with Python
