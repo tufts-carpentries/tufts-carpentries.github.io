@@ -15,7 +15,7 @@ redirect_from:
 
 <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/KD_Tufts.jpg" alt="Kaylen Dwyer photo"></div><div><b>Kaylen Dwyer</b><br>she/her pronouns<br>Digital Scholarship Librarian<br>Tisch Library<br>Lessons: Shell, Git, Python</div></td></tr>
 
-<tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/EM_Tufts.jpg" alt="Elizabeth McCall photo"></div><div><b>Elizabeth McCall</b><br>she/her pronouns<br>Research Data Librarian<br>Tisch Library<br>Lessons: intereste in Python, R, Git</div></td></tr> 
+<tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/EM_Tufts.jpg" alt="Elizabeth McCall photo"></div><div><b>Elizabeth McCall</b><br>she/her pronouns<br>Research Data Librarian<br>Tisch Library<br>Lessons: interested in Python, R, Git</div></td></tr> 
 
 <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/KM_Tufts.jpg" alt="Kyle Monahan photo"></div><div><b>Kyle Monahan</b><br>he/him pronouns<br>Senior Data Science Specialist<br>Research Technology, TTS<br>Lessons: Python, R, Data Visualization, GIS</div></td></tr>
   
