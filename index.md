@@ -6,5 +6,5 @@ redirect_from: /home/
 
 We are continuously updating the lessons we offer, so if there is a particular lesson you are interested in please let us know and we will see what we can do. 
 
-If you want more information or would like to request a workshop, please contact <a href = "mailto: kristin.lee@tufts.edu">Kristin Lee</a>.
+If you want more information or would like to request a workshop, please email the Research Data Management team at <a href = "mailto: rdm@tufts.edu">rdm@tufts.edu</a>.
 
