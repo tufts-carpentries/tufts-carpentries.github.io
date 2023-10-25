@@ -26,7 +26,7 @@ redirect_from:
 
 <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/PS_Tufts.jpeg" alt="Paige Scudder photo"></div><div><b>Paige Scudder</b><br>she/her pronouns<br>Research and Instruction Librarian<br>Hirsh Library<br>Lessons: Python</div></td></tr> 
 
-<tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/AT_Tufts.jpg" alt="Allie Tatarian photo"></div><div><b>Allie Tatarian</b><br>they/them pronouns<br>Research and Instruction Data Librarian<br>Hirsh Library<br>Lessons: Git, Shell, OpenRefine, Spreadsheets</div></td></tr>
+<tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/AT_Tufts.jpg" alt="Allie Tatarian photo"></div><div><b>Allie Tatarian</b><br>they/them pronouns<br>Research & Instruction and Data Librarian<br>Hirsh Library<br>Lessons: Git, Shell, OpenRefine, Spreadsheets</div></td></tr>
 
 <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/BW_Tufts.png" alt="Berika Williams photo"></div><div><b>Berika Williams</b><br>she/her pronouns<br>Research and Instruction Librarian<br>Ginn Library<br>Lessons: R, Shell, Data Visualization</div></td></tr>
 
