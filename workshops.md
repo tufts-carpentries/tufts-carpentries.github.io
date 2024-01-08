@@ -9,6 +9,7 @@ Check back for future workshops offered by Carpentries at Tufts members.
 
 Venue | Dates | Lessons
 ---|---|---
+[Tufts University, Online](https://tufts-carpentries.github.io/2024-02-12-tufts-online) | February 12-15, 2024 | Data Organization in Spreadsheets, OpenRefine for Data Cleaning, R for Social Scientists
 [Tufts University, Online](https://tufts-carpentries.github.io/2023-10-24-tufts-online) | October 24-27, 2023 | Software Carpentry: Unix Shell, Git, Python
 [Tufts University, Online](https://tufts-carpentries.github.io/2022-08-25-tuftsUEP/ ) | August 25-26, 2022 | Tufts UEP Coding Bootcamp: Unix Shell, Git, Python
 [Tufts University, Online](https://tufts-carpentries.github.io/2022-03-30-TuftsGinnHirsh-online) | March 30-31 and April 1, 2022 | Data Organization in Spreadsheets, OpenRefine for Data Cleaning, R for Social Scientists
