@@ -9,6 +9,7 @@ Check back for future workshops offered by Carpentries at Tufts members.
 
 Venue | Dates | Lessons
 ---|---|---
+[Tufts University, Online](https://tufts-carpentries.github.io/2025-04-24-tufts-online/) | April 24-25, 2025 | Data Organziation in Spreadsheets, OpenRefine for Data Cleaning, Python for Data Visualization
 [Tufts University, Online](https://tufts-carpentries.github.io/2024-10-21-tufts-online/) | October 21 & 28, 2024 | Data Carpentry for Cummings School of Veterinary Medicine: Data Organization in Spreadsheets, OpenRefine for Data Cleaning
 [Tufts University, Online](https://tufts-carpentries.github.io/2024-06-14-tufts-online) | June 14, 2024 | Library Carpentry: OpenRefine and Python
 [Tufts University, Online](https://tufts-carpentries.github.io/2024-02-12-tufts-online) | February 12-15, 2024 | Data Organization in Spreadsheets, OpenRefine for Data Cleaning, R for Social Scientists
