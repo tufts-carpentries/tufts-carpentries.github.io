@@ -24,7 +24,7 @@ redirect_from:
 
 </table>
 
-##### Interested in teaching with us?
+#### Interested in teaching with us?
 
 Don't hesitate to reach out! Email the Research Data Management team at <a href = "mailto: rdm@tufts.edu">rdm@tufts.edu</a>.
   
