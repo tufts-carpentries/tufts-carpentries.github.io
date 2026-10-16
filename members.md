@@ -23,4 +23,8 @@ redirect_from:
 <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/BW_Tufts.png" alt="Berika Williams photo"></div><div><b>Berika Williams</b><br>she/her pronouns<br>Research and Instruction Librarian<br>Ginn Library<br>Lessons: R, Shell, Data Visualization</div></td></tr>
 
 </table>
+
+##### Interested in teaching with us?
+
+Don't hesitate to reach out! Email the Research Data Management team at <a href = "mailto: rdm@tufts.edu">rdm@tufts.edu</a>.
   
